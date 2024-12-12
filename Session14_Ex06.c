@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <string.h>
 
 int main() {
     char chuoi[100];
@@ -18,6 +19,5 @@ int main() {
     } else {
         printf("\nKhong co ky tu chu cai trong chuoi");
     }
-
     return 0;
 }
